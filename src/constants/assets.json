@@ -1,0 +1,67 @@
+[
+    {
+        "name": "uaxl",
+        "Ethereum": "wAXL",
+        "Avalanche": "wAXL",
+        "Polygon": "wAXL",
+        "Fantom": "wAXL",
+        "Moonbeam": "wAXL"
+    },
+    {
+        "name": "wmatic-wei",
+        "Ethereum": "WMATIC",
+        "Avalanche": "WMATIC",
+        "Polygon": "WMATIC",
+        "Fantom": "WMATIC",
+        "Moonbeam": "WMATIC"
+    },
+    {
+        "name": "wftm-wei",
+        "Ethereum": "WFTM",
+        "Avalanche": "WFTM",
+        "Polygon": "WFTM",
+        "Fantom": "WFTM",
+        "Moonbeam": "WFTM"
+    },
+    {
+        "name": "eth-wei",
+        "Ethereum": "WETH",
+        "Avalanche": "axlWETH",
+        "Polygon": "axlWETH",
+        "Fantom": "axlWETH",
+        "Moonbeam": "axlWETH"
+    },
+    {
+        "name": "wavax-wei",
+        "Ethereum": "WAVAX",
+        "Avalanche": "WAVAX",
+        "Polygon": "WAVAX",
+        "Fantom": "WAVAX",
+        "Moonbeam": "WAVAX"
+    },
+    {
+        "name": "wdev-wei",
+        "Ethereum": "WDEV",
+        "Avalanche": "WDEV",
+        "Polygon": "WDEV",
+        "Fantom": "WDEV",
+        "Moonbeam": "WDEV"
+    },
+    {
+        "name": "uausdc",
+        "Ethereum": "aUSDC",
+        "Avalanche": "aUSDC",
+        "Polygon": "aUSDC",
+        "Fantom": "aUSDC",
+        "Moonbeam": "aUSDC"
+    },
+    {
+        "name": "wbnb-wei",
+        "Ethereum": "WBNB",
+        "Avalanche": "WBNB",
+        "Polygon": "WBNB",
+        "Fantom": "WBNB",
+        "Moonbeam": "WBNB"
+    }
+  ]
+  

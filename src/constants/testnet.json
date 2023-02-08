@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Ethereum",
+      "chainId": 5,
+      "gateway": "0xe432150cce91c13a887f7D836923d5597adD8E31",
+      "rpc": "https://goerli.infura.io/v3/"
+
+    },
+    {
+      "name": "Avalanche",
+      "chainId": 43113,
+      "gateway": "0xC249632c2D40b9001FE907806902f63038B737Ab",
+      "rpc": "https://rpc.ankr.com/avalanche_fuji"
+
+    },
+    {
+      "name": "Fantom",
+      "chainId": 4002,
+      "gateway": "0x97837985Ec0494E7b9C71f5D3f9250188477ae14",
+      "rpc": "https://rpc.ankr.com/fantom_testnet"
+    },
+    {
+      "name": "Polygon",
+      "chainId": 80001,
+      "gateway": "0xBF62ef1486468a6bd26Dd669C06db43dEd5B849B",
+      "rpc": "https://rpc.ankr.com/polygon_mumbai"
+    },
+    {
+      "name": "Moonbeam",
+      "chainId": 1287,
+      "gateway": "0x5769D84DD62a6fD969856c75c7D321b84d455929",
+      "rpc": "https://rpc.api.moonbase.moonbeam.network"
+    }
+  ]
+  
